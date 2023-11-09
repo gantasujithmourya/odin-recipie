@@ -1,0 +1,27 @@
+h1 {
+    display: block;
+    width: fit-content;
+    padding: 8px;
+    margin: 0 auto;
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(212, 212, 212);
+    text-align: center;
+}
+
+
+img:hover{
+   transform: scale(1.1);
+
+}
+ul{
+    
+}
+h3{
+    display: block;
+    width: fit-content;
+    padding: 8px;
+    
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(212, 212, 212);
+    
+}
